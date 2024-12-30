@@ -1,0 +1,13 @@
+streamlit
+langchain
+langgraph
+cassio
+langchain_community
+tiktoken
+langchain-groq
+langchainhub
+langchain_huggingface
+wikipedia
+tavily-python
+typing-extensions
+IPython
